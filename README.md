@@ -18,7 +18,7 @@
 
 💬 Ask me about **HTML, CSS, JS, C++ .... or anything [here](https://github.com/devadiraj/devadiraj/issues)**
 
-⚡ Fun fact **Lucifer was innocent**
+⚡ Fun fact **😈 Lucifer was innocent 😈**
 
  </div>
 
