@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently a student at **Thapar Institute, India**
  
  🌱 I’m currently learning **JavaScript and C++**
 
 💬 Ask me about **HTML, CSS, JS, C++ .... or anything [here](https://github.com/devadiraj/devadiraj/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Lucifer was innocent**
 
  </div>
 
