@@ -37,6 +37,9 @@
   </a>
   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a><br>
+  <a href="https://leetcode.com/u/devadiraj/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-FEA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
   </a>
 </div>
 
