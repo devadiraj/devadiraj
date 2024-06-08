@@ -41,6 +41,12 @@
   <a href="https://leetcode.com/u/devadiraj/" target="_blank">
      <img src="https://img.shields.io/badge/LeetCode-FEA116?style=for-the-badge&logo=leetcode&logoColor=black" target="_blank" />
   </a>
+  <a href="https://www.hackerrank.com/profile/rajadiofficial2" target="_blank">
+     <img src="https://img.shields.io/badge/HackerRank-060D1D?style=for-the-badge&logo=hackerrank" target="_blank" />
+  </a>
+  <a href="https://www.codewars.com/users/devadiraj" target="_blank">
+     <img src="https://img.shields.io/badge/CodeWars-B23318?style=for-the-badge&logo=codewars&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
