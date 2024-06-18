@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software and blockchain developer from India</h3>
+<h3 align="center">A passionate software and freelance developer from India</h3>
 
 </br>
 
