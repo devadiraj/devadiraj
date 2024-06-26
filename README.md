@@ -14,9 +14,9 @@
  
  🔭 I’m currently a student at **Thapar Institute, India**
  
- 🌱 I’m currently learning **JavaScript and Python**
+ 🌱 I’m currently learning **JavaScript, C++ and Python**
 
-💬 Ask me about **HTML, CSS, JS, Python .... or anything [here](https://github.com/devadiraj/devadiraj/issues)**
+💬 Ask me about **HTML, CSS, JS, C++, Python .... or anything [here](https://github.com/devadiraj/devadiraj/issues)**
 
 ⚡ Fun fact **😈 Lucifer was innocent 😈**
 
@@ -55,7 +55,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,javascript,python" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,javascript,python,c++" /><br>
 </div>
 
 <br/>
